@@ -4,6 +4,10 @@ An event-driven AI agent that automatically captures meeting transcripts, uses G
 
 An automated, event-driven pipeline that captures meeting transcripts via Google Apps Script, uploads them to Google Cloud Storage, uses Vertex AI (Gemini 2.5 Flash) to extract PM-specific action items, and routes them directly into Asana with custom field metrics.
 
+
+
+
+
 ---
 
 ## 🛠 Platform Stack & Tools
